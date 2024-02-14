@@ -1,0 +1,17 @@
+[Desktop Entry]
+Categories=Development
+Comment[en_AU]=
+Comment=
+Exec=env XDG_CURRENT_DESKTOP=GNOME /usr/bin/packettracer
+GenericName[en_AU]=
+GenericName=
+MimeType=
+Name[en_AU]=Packet Tracer
+Name=Packet Tracer
+Path=
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+Type=Application
+X-KDE-SubstituteUID=false
+X-KDE-Username=

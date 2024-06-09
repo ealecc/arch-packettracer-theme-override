@@ -8,6 +8,7 @@ GenericName=
 MimeType=
 Name[en_AU]=Packet Tracer
 Name=Packet Tracer
+Icon=/opt/packettracer/art/app.png
 Path=
 StartupNotify=true
 Terminal=false
